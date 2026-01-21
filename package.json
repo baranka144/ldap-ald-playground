@@ -1,0 +1,13 @@
+{
+	"name": "ldap-playground",
+	"version": "0.1.0",
+	"private": true,
+	"type": "commonjs",
+	"license": "UNLICENSED",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"ldapjs": "^3.0.7"
+	}
+}
